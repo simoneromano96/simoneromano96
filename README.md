@@ -6,6 +6,8 @@
 
 ![Views](https://komarev.com/ghpvc/?username=simoneromano96&color=blueviolet)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=simoneromano96&theme=dracula)
+
 <!--
 **simoneromano96/simoneromano96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
