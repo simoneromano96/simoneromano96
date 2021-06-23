@@ -4,12 +4,12 @@ I'm Simone Romano, an Italian 🍕 full stack developer. I currently work at Nok
 
 ## Programming languages I love: 
 
-* Rust (but sometimes it makes me 😡)
-* Go (but sometimes it is too naive)
-* TypeScript / JavaScript (but sometimes it is weird)
-* Python (because sometimes you just need a script)
+* 🦀 Rust (but sometimes it makes me 😡)
+* 🦫 Go (but sometimes it is too naive)
+* 🔷 TypeScript / JavaScript (but sometimes it is weird)
+* 🐍 Python (because sometimes you just need a script)
 
-No Java 💩 nor VMs allowed!
+No 💩 Java allowed!
 
 ## My stack(s)
 
@@ -21,9 +21,9 @@ No Java 💩 nor VMs allowed!
 
 **Backend**:
 
-* Node
-* Rust
-* Go
+* 🔷 Node
+* 🦀 Rust
+* 🦫 Go
 
 I primarily use React (hooks ❤️) and Node and both of them solves 99% of the problems in a good way, but sometimes I miss Rust enums and match.
 
@@ -35,7 +35,7 @@ I primarily use React (hooks ❤️) and Node and both of them solves 99% of the
 
 ![Views](https://komarev.com/ghpvc/?username=simoneromano96&color=blueviolet)
 
-- 🤔 I’m looking for help with pegasus, a Rust password manager
+- 🤔 I’m looking for help with pegasus, a 🦀 Rust password manager
 - 🔭 I’m currently working on: **fix ledger integration** for web3-react
 - 💬 Ask me about anything!
 - 📫 How to reach me: simoneromano@tutanota.de
