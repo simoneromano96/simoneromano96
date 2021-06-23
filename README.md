@@ -39,6 +39,7 @@ I primarily use React (hooks ❤️) and Node and both of them solves 99% of the
 - 🔭 I’m currently working on: **fix ledger integration** for web3-react
 - 💬 Ask me about anything!
 - 📫 How to reach me: simoneromano@tutanota.de
+- 💭 We need emojis for programming languages and stuff like that
 
 
 <!--
