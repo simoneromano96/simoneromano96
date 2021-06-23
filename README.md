@@ -25,7 +25,7 @@ No 💩 Java allowed!
 * 🦀 Rust
 * 🦫 Go
 
-I primarily use React (hooks ❤️) and Node and both of them solves 99% of the problems in a good way, but sometimes I miss Rust enums and match.
+I primarily use React (hooks ❤️) and Node and both of them solves 99% of the problems in a good way, but sometimes I miss Rust's enums and match.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=simoneromano96&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
